@@ -57,3 +57,5 @@ Note:
 * only <u>*later*</u> versions of the FIX specification than the one being packaged are excluded from parsing
 * FIX dictionaries not used in the code generation are excluded (redundant Dictionary files are present in the project)
 * the use of this plugin depends on correct ordering of the modules with the most recent versions of the FIX protocol being packaged before packaging the older versions of the protocol.
+
+<!-- Auto-update: 2025-10-11T09:06:36.671604 -->
